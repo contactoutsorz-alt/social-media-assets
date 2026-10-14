@@ -1,21 +1,23 @@
-# Social media assets
+# Social Media Assets
 
-Public image and video files used by our Buffer autoposters.
+Public, reusable media library for our Buffer-powered social posts.
 
-## Folders
+## Current folders
 
-- `jobsultan/linkedin/` — images for JobSultan's LinkedIn posts.
-- `jobsultan/instagram/` — images and videos for **JobSultan Instagram only**.
-- `outsorz/linkedin/` — optional future Outsorz LinkedIn assets.
+- [JobSultan shared images](jobsultan/shared-images/) — **one copy of every approved picture** for both JobSultan LinkedIn and Instagram. Upload your existing JPG/PNG pictures here.
+- [Outsorz LinkedIn](outsorz/linkedin/) — optional dedicated Outsorz LinkedIn visuals.
 
-**We do not post to Outsorz Instagram.** No Outsorz Instagram folder is configured.
+There is no Outsorz Instagram autoposter. JobSultan Instagram and LinkedIn have independent captions, schedules and state, but reference the **same physical media files**.
 
-## Uploading pictures
+## Upload instructions
 
-Open the appropriate folder in GitHub, choose **Add file → Upload files**, and commit the approved JPG, PNG or MP4 media files. The `.gitkeep` files merely make empty folders visible and can stay.
+1. Open [jobsultan/shared-images](jobsultan/shared-images/).
+2. Click **Add file → Upload files**, select your existing images, and commit them to `main`.
+3. Give each image a descriptive, stable filename, such as `job-search-001.jpg` or `hiring-tips-001.png`.
+4. Link that filename to both posting configurations in the private `Linkedin-autoposter` repository. There is no need to upload it twice.
 
-Use descriptive file names, such as `job-search-001.jpg`, `employer-hiring-001.jpg`, and `career-advice-001.jpg`.
+These are public files; **never upload confidential or personally sensitive pictures**. A direct raw file URL is:
 
-The repository is public: do not store confidential or personal images here. Before enabling posting, confirm each media file has a stable, direct public HTTPS URL that Buffer can fetch. GitHub Pages or another public CDN can serve the files.
+`https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/shared-images/your-image.jpg`
 
-The posting code and schedules live separately in `contactoutsorz-alt/Linkedin-autoposter`. Uploading a picture here does **not** publish it automatically.
+Media must be accessible over HTTPS to Buffer without authentication. Test the URL and a real post before switching on image publishing; uploads alone do not trigger posts. The poster's media attachment and JobSultan Instagram automation are currently off pending setup.

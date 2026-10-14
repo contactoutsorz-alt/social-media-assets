@@ -1,0 +1,59 @@
+name: Create temporary image review sheets
+
+on:
+  push:
+    branches:
+      - audit/job-sultan-photo-locations
+    paths:
+      - .github/workflows/image-location-audit.yml
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Install Pillow
+        run: python -m pip install pillow
+      - name: Generate contact sheets from uploaded photos
+        run: |
+          from pathlib import Path
+          from PIL import Image, ImageOps, ImageDraw, ImageFont
+          from textwrap import wrap
+          
+          paths=sorted(Path("jobsultan/shared-images").glob("*.jpg"))
+          assert len(paths)>=28, f"Expected at least 28 pictures, found {len(paths)}"
+          out=Path("audits")
+          out.mkdir(exist_ok=True)
+          font=ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 17)
+          small=ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 15)
+          for batch_start in range(0,len(paths),4):
+              sheet=Image.new("RGB",(1100,880),"white")
+              draw=ImageDraw.Draw(sheet)
+              for j,p in enumerate(paths[batch_start:batch_start+4]):
+                  num=batch_start+j+1
+                  x=(j%2)*550
+                  y=(j//2)*440
+                  with Image.open(p) as im:
+                      im=ImageOps.exif_transpose(im)
+                      im.thumbnail((540,363))
+                      im=im.convert("RGB")
+                      sheet.paste(im,(x+(550-im.width)//2,y+(370-im.height)//2))
+                  draw.text((x+10,y+369),f"{num:02d} — {p.name[:50]}",font=font,fill=(0,0,0))
+                  if len(p.name)>50:draw.text((x+10,y+394),p.name[50:],font=small,fill=(0,0,0))
+              name=out/f"location-sheet-{batch_start//4+1:02d}.jpg"
+              sheet.save(name,quality=75,optimize=True,progressive=True)
+              print(f"{name}: {name.stat().st_size} bytes")
+          (out/"index.txt").write_text("\n".join(f"{i+1:02d}  {p.name}" for i,p in enumerate(paths)),encoding="utf-8")
+          
+      - name: Commit review sheets only to audit branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audits/
+          git commit -m 'Temporary visual review contact sheets'
+          git push origin HEAD:audit/job-sultan-photo-locations

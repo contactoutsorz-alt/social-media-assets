@@ -1,0 +1,52 @@
+name: Review latest JobSultan photo uploads
+on:
+  push:
+    branches: [audit/oct-14-extra-images]
+    paths: [.github/workflows/oct14-image-contact-sheet.yml]
+permissions:
+  contents: write
+jobs:
+  contact:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m pip install pillow
+      - name: Make numbered contact sheets
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageOps, ImageDraw, ImageFont
+          files = ["IMG20260410151901.jpg","IMG20260411145657.jpg","IMG20260411145702.jpg","IMG20260411145852.jpg","IMG20260411150023.jpg","IMG20260411150044.jpg","IMG20260411150113.jpg","IMG20260411150141.jpg","IMG20260411151046.jpg","IMG20260411163224.jpg","IMG20260411181305.jpg","IMG20260411181321.jpg","IMG20260424171205.jpg","IMG_20261014_200341.jpg","IMG_20261014_200500.jpg","IMG_20261014_201359.jpg","IMG_20261014_201526.jpg","pexels-adhib-m-656230585-17685648.jpg","pexels-airam-vargas-15182-1662310.jpg","pexels-fabian-lozano-2152897796-32556089.jpg","pexels-mohammed-ajwad-9822971.jpg","pexels-sbam-14756460.jpg","pexels-tyrrel-burns-564860323-17186683.jpg","pexels-ultra_-image-2158637574-35621312.jpg"]
+          photos = [Path("jobsultan/shared-images") / f for f in files]
+          assert all(p.exists() for p in photos), "Some images are missing"
+          out=Path("audits");out.mkdir(exist_ok=True)
+          font=ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",16)
+          for start in range(0,len(photos),4):
+              sheet=Image.new("RGB",(1200,860),"white")
+              draw=ImageDraw.Draw(sheet)
+              for j,p in enumerate(photos[start:start+4]):
+                  x=(j%2)*600
+                  y=(j//2)*430
+                  with Image.open(p) as im:
+                      im=ImageOps.exif_transpose(im)
+                      im.thumbnail((585,360))
+                      im=im.convert("RGB")
+                      sheet.paste(im,(x+(600-im.width)//2,y+(365-im.height)//2))
+                  draw.text((x+10,y+373),f"{start+j+1:02d}  {p.name[:68]}",font=font,fill=(0,0,0))
+                  if len(p.name)>68:draw.text((x+10,y+396),p.name[68:],font=font,fill=(0,0,0))
+              dest=out/f"oct14-additions-{start//4+1:02d}.jpg"
+              sheet.save(dest,quality=76,optimize=True)
+              print(dest, dest.stat().st_size)
+          (out/"oct14-index.txt").write_text("\n".join(f"{i+1:02d} {p.name}" for i,p in enumerate(photos)),encoding="utf-8")
+          
+          PY
+      - name: Save sheets to review branch only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audits/
+          if ! git diff --cached --quiet; then
+            git commit -m "Photo review contact sheets for 24 latest uploads"
+            git push origin HEAD:audit/oct-14-extra-images
+          fi

@@ -1,0 +1,61 @@
+name: Prepare existing JobSultan JPGs for Buffer Instagram
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/prepare-jobsultan-jpgs.yml
+permissions:
+  contents: write
+concurrency:
+  group: jobsultan-image-preparation
+  cancel-in-progress: false
+jobs:
+  resize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install image tools
+        run: python -m pip install pillow
+      - name: Resize overlarge images without cropping or creating new images
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageOps
+          library=Path("jobsultan/shared-images")
+          photos=sorted(library.glob("*.jpg"))
+          if len(photos)<93:
+              raise SystemExit(f"Expected at least 93 photos; found {len(photos)}")
+          MAX_DIM=2560
+          TARGET_FILE=7_000_000
+          changed=[]
+          for p in photos:
+              with Image.open(p) as original:
+                  w,h=original.size
+                  if max(w,h)<=MAX_DIM and p.stat().st_size<TARGET_FILE:
+                      continue
+                  im=ImageOps.exif_transpose(original)
+                  im.thumbnail((MAX_DIM,MAX_DIM),Image.Resampling.LANCZOS)
+                  if im.mode not in ("RGB","L"):
+                      im=im.convert("RGB")
+                  im.save(p,format="JPEG",quality=85,optimize=True,progressive=True)
+                  changed.append((p.name,(w,h),im.size,p.stat().st_size))
+          print("Images reviewed:",len(photos),"resized:",len(changed))
+          for name,old,new,size in changed:
+              print(f"RESIZED {name}: {old} -> {new}; {size} bytes")
+          for p in photos:
+              with Image.open(p) as im:
+                  if max(im.size)>5000 or p.stat().st_size>8_000_000:
+                      raise SystemExit(f"Image still too large for Buffer: {p.name}")
+          PY
+      - name: Save the same file names with Buffer-compatible sizes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobsultan/shared-images/
+          if ! git diff --cached --quiet; then
+            git commit -m "Resize existing JobSultan JPGs to fit Buffer image limits"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

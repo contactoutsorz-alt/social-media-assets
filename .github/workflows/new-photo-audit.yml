@@ -1,0 +1,52 @@
+name: New photo contact sheets (review only)
+on:
+  push:
+    branches: [audit/new-photos-contact-sheets]
+    paths: [.github/workflows/new-photo-audit.yml]
+permissions:
+  contents: write
+jobs:
+  contact:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m pip install pillow
+      - name: Create contact sheets
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageOps, ImageDraw, ImageFont
+          old = set(["pexels-abdul7amid-1885720.jpg","pexels-abdullah-alallah-314142096-28558787.jpg","pexels-abdullah-t-2155984181-36769041.jpg","pexels-abdullah-t-2155984181-36769050.jpg","pexels-abul-lais-2161703794-39470842.jpg","pexels-abul-lais-2161703794-39470846.jpg","pexels-afiography-36607910.jpg","pexels-dalya-al-2151416-4614473.jpg","pexels-grbr-snts-323519936-33763650.jpg","pexels-grbr-snts-323519936-34446540.jpg","pexels-hry-photography-habibur-rehman-yzdani-168601689-32918065.jpg","pexels-imran-musleh-2164304932-39590893.jpg","pexels-irfan-rahat-164426592-12694176.jpg","pexels-james-guarino-1399739-36895565.jpg","pexels-jepoyous-30841119.jpg","pexels-jepoyous-30841126.jpg","pexels-kashyap197-37909605.jpg","pexels-llana-79788650-33498959.jpg","pexels-mdamirumar-30320202.jpg","pexels-mdamirumar-35017679.jpg","pexels-mloky96-35761.jpg","pexels-mohammed-azhar-478656558-15839821.jpg","pexels-moph-36230496.jpg","pexels-muhannad-al-zabidi-722699246-31367599.jpg","pexels-raziuddin-farooqi-168235081-10965740.jpg","pexels-sirokad-38096888.jpg","pexels-steven-jeffery-155335861-31849529.jpg","pexels-steven-jeffery-155335861-31849530.jpg"])
+          photos = [p for p in sorted(Path("jobsultan/shared-images").glob("*.jpg")) if p.name not in old]
+          assert len(photos) >= 41, f"Expected 41 new pictures, found {len(photos)}"
+          out=Path("audits");out.mkdir(exist_ok=True)
+          font=ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",15)
+          for start in range(0,len(photos),4):
+              sheet=Image.new("RGB",(1200,840),"white")
+              draw=ImageDraw.Draw(sheet)
+              for j,p in enumerate(photos[start:start+4]):
+                  x=(j%2)*600
+                  y=(j//2)*420
+                  with Image.open(p) as im:
+                      im=ImageOps.exif_transpose(im)
+                      im.thumbnail((580,355))
+                      im=im.convert("RGB")
+                      sheet.paste(im,(x+(600-im.width)//2,y+(360-im.height)//2))
+                  draw.text((x+10,y+365),f"{start+j+1:02d}  {p.name[:65]}",font=font,fill=(0,0,0))
+                  if len(p.name)>65:draw.text((x+10,y+389),p.name[65:],font=font,fill=(0,0,0))
+              dest=out/f"new-photos-{start//4+1:02d}.jpg"
+              sheet.save(dest,quality=75,optimize=True)
+              print(dest, dest.stat().st_size)
+          (out/"new-index.txt").write_text("\n".join(f"{i+1:02d} {p.name}" for i,p in enumerate(photos)),encoding="utf-8")
+          
+          PY
+      - name: Save images to review branch only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audits/
+          if ! git diff --cached --quiet; then
+            git commit -m "Prepare new uploaded photos for city review"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi

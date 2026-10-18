@@ -1,0 +1,34 @@
+name: Mute JobSultan Instagram Reel uploads
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'jobsultan/instagram-reels/uploads/**'
+      - scripts/prepare_reels.py
+      - .github/workflows/mute-instagram-reels.yml
+permissions:
+  contents: write
+concurrency:
+  group: jobsultan-instagram-reel-preparation
+  cancel-in-progress: false
+jobs:
+  mute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check ffmpeg and ffprobe
+        run: |
+          command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+          command -v ffprobe
+      - name: Remove the entire audio track and create silent portrait MP4 files
+        run: python scripts/prepare_reels.py
+      - name: Commit silent Reels and their manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobsultan/instagram-reels/silent/
+          if ! git diff --cached --quiet; then
+            git commit -m "Prepare and verify muted JobSultan Reels"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

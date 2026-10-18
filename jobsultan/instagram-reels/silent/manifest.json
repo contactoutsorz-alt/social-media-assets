@@ -1,3 +1,11 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "source": "8243341-uhd_2160_3840_24fps.mp4",
+      "filename": "8243341-uhd-2160-3840-24fps-d7b8be55bbde-silent.mp4",
+      "duration_seconds": 11.7,
+      "bytes": 3834426,
+      "audio_removed": true
+    }
+  ]
 }

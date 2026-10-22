@@ -15,17 +15,23 @@
     {
       "name": "Bangladesh",
       "slug": "bangladesh",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "uploaded_to_shared_ready_for_content_planning",
+      "shared_image_path": "digital-prints/main-principle/shared/bangladesh.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/bangladesh.png"
     },
     {
       "name": "Qatar",
       "slug": "qatar",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "uploaded_to_shared_ready_for_content_planning",
+      "shared_image_path": "digital-prints/main-principle/shared/qatar.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/qatar.png"
     },
     {
       "name": "Jamaica",
       "slug": "jamaica",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "uploaded_to_shared_ready_for_content_planning",
+      "shared_image_path": "digital-prints/main-principle/shared/jamaica.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/jamaica.png"
     },
     {
       "name": "Saint Lucia",
@@ -35,7 +41,9 @@
     {
       "name": "India",
       "slug": "india",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "uploaded_to_shared_ready_for_content_planning",
+      "shared_image_path": "digital-prints/main-principle/shared/india.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/india.png"
     },
     {
       "name": "Afghanistan",
@@ -95,7 +103,9 @@
     {
       "name": "Saudi Arabia",
       "slug": "saudi-arabia",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "uploaded_to_shared_ready_for_content_planning",
+      "shared_image_path": "digital-prints/main-principle/shared/saudi-arabia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/saudi-arabia.png"
     },
     {
       "name": "Guyana",
@@ -289,7 +299,9 @@
     }
   ],
   "notes": [
-    "Generated mockup raster files have not been uploaded to GitHub by this connector; user review and upload required",
-    "Do not auto-post any mockup without confirming image URL and product destination"
-  ]
+    "Five approved individual Main Principle room mockups are stored in shared/ and available as public image URLs for both Instagram and Pinterest.",
+    "Posting remains disabled until the user approves a schedule and captions.",
+    "Remaining mockups not uploaded or reviewed. Do not use unapproved geographic outlines."
+  ],
+  "shared_folder": "digital-prints/main-principle/shared/"
 }

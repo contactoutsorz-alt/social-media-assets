@@ -6,11 +6,12 @@ Approved reference room: sunny rustic living room with framed map above wooden c
 
 ## Folders
 
-- `instagram/`: 4:5 image exports (JPG)
-- `pinterest/`: 2:3 image exports (JPG)
+- `shared/`: approved Main Principle PNG wall mockups used by Instagram and Pinterest.
+- `instagram/`: optional platform-specific 4:5 exports later.
+- `pinterest/`: optional platform-specific 2:3 exports later.
 
-This staging manifest names all 55 requested variants. **No image JPGs have been uploaded to the public repository yet, and posting is disabled.** Images exist in a downloadable user pack produced in the conversation, but the GitHub connector available here cannot transfer its generated image binaries into the repository directly.
+The manifest names all 55 requested variants. **Five approved PNG mockups have been uploaded to `shared/`: SAUDI ARABIA, BANGLADESH, QATAR, JAMAICA, INDIA.** All other variants are pending proper mockup creation. Posting is disabled.
 
-Four labels need actual geography / Canva artwork rather than inferred shapes: Saint Lucia, Kashmir, Malta, Makkah. The remaining map silhouettes derive from coarse geographic shape data, not original Canva pages; review against the product artwork before advertising.
+Only use approved individual mockups; the earlier automated contact-sheet style exports were rejected. Verify silhouette accuracy against source Canva artwork before publishing further variants.
 
-Never commit the licensed font file or original high-resolution printable product files publicly. Upload **mockup JPEGs only**.
+Never commit the licensed font file or original high-resolution printable product files publicly. Upload **mockup raster images only (PNG/JPG)**.

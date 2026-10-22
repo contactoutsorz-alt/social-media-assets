@@ -1,0 +1,295 @@
+{
+  "collection": "Main Principle",
+  "style": {
+    "font": "Cinzel Decorative Bold (user-provided; font binary stays private)",
+    "case": "UPPERCASE",
+    "background": "#601f01",
+    "map": "white silhouette",
+    "presentation": "realistic framed interior"
+  },
+  "publishing_enabled": false,
+  "approved_for_publish": false,
+  "instagram_folder": "digital-prints/main-principle/instagram/",
+  "pinterest_folder": "digital-prints/main-principle/pinterest/",
+  "entries": [
+    {
+      "name": "Bangladesh",
+      "slug": "bangladesh",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Qatar",
+      "slug": "qatar",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Jamaica",
+      "slug": "jamaica",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Saint Lucia",
+      "slug": "saint-lucia",
+      "status": "requires_original_geography"
+    },
+    {
+      "name": "India",
+      "slug": "india",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Afghanistan",
+      "slug": "afghanistan",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Somalia",
+      "slug": "somalia",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Pakistan",
+      "slug": "pakistan",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Greece",
+      "slug": "greece",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Hellas",
+      "slug": "hellas",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Spain",
+      "slug": "spain",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Kashmir",
+      "slug": "kashmir",
+      "status": "requires_original_geography"
+    },
+    {
+      "name": "Ethiopia",
+      "slug": "ethiopia",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Kenya",
+      "slug": "kenya",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Cuba",
+      "slug": "cuba",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Egypt",
+      "slug": "egypt",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Saudi Arabia",
+      "slug": "saudi-arabia",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Guyana",
+      "slug": "guyana",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Iran",
+      "slug": "iran",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Oman",
+      "slug": "oman",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Türkiye",
+      "slug": "turkiye",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Turkia",
+      "slug": "turkia",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "España",
+      "slug": "espana",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Cyprus",
+      "slug": "cyprus",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Jordan",
+      "slug": "jordan",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Syria",
+      "slug": "syria",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Libya",
+      "slug": "libya",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Tunisia",
+      "slug": "tunisia",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Yemen",
+      "slug": "yemen",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Algeria",
+      "slug": "algeria",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Kuwait",
+      "slug": "kuwait",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Iraq",
+      "slug": "iraq",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Emirates",
+      "slug": "emirates",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Africa",
+      "slug": "africa",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Sri Lanka",
+      "slug": "sri-lanka",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Portugal",
+      "slug": "portugal",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Japan",
+      "slug": "japan",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Malta",
+      "slug": "malta",
+      "status": "requires_original_geography"
+    },
+    {
+      "name": "Mexico",
+      "slug": "mexico",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Indonesia",
+      "slug": "indonesia",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Haiti",
+      "slug": "haiti",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Malaysia",
+      "slug": "malaysia",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Croatia",
+      "slug": "croatia",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Sudan",
+      "slug": "sudan",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Thailand",
+      "slug": "thailand",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Dominican Republic",
+      "slug": "dominican-republic",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Philippines",
+      "slug": "philippines",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Makkah",
+      "slug": "makkah",
+      "status": "requires_original_geography"
+    },
+    {
+      "name": "Panama",
+      "slug": "panama",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "New Zealand",
+      "slug": "new-zealand",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Loas",
+      "slug": "loas",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Burma",
+      "slug": "burma",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Myanmar",
+      "slug": "myanmar",
+      "status": "local_preview_ready_not_yet_uploaded"
+    },
+    {
+      "name": "Italy",
+      "slug": "italy",
+      "status": "local_preview_ready_not_yet_uploaded"
+    }
+  ],
+  "notes": [
+    "Generated mockup raster files have not been uploaded to GitHub by this connector; user review and upload required",
+    "Do not auto-post any mockup without confirming image URL and product destination"
+  ]
+}

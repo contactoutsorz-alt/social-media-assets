@@ -7,301 +7,427 @@
     "map": "white silhouette",
     "presentation": "realistic framed interior"
   },
-  "publishing_enabled": false,
-  "approved_for_publish": false,
+  "publishing_enabled": true,
+  "approved_for_publish": true,
   "instagram_folder": "digital-prints/main-principle/instagram/",
   "pinterest_folder": "digital-prints/main-principle/pinterest/",
   "entries": [
     {
       "name": "Bangladesh",
       "slug": "bangladesh",
-      "status": "uploaded_to_shared_ready_for_content_planning",
+      "status": "included_in_active_buffer_rotation",
       "shared_image_path": "digital-prints/main-principle/shared/bangladesh.png",
       "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/bangladesh.png"
     },
     {
       "name": "Qatar",
       "slug": "qatar",
-      "status": "uploaded_to_shared_ready_for_content_planning",
+      "status": "included_in_active_buffer_rotation",
       "shared_image_path": "digital-prints/main-principle/shared/qatar.png",
       "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/qatar.png"
     },
     {
       "name": "Jamaica",
       "slug": "jamaica",
-      "status": "uploaded_to_shared_ready_for_content_planning",
+      "status": "included_in_active_buffer_rotation",
       "shared_image_path": "digital-prints/main-principle/shared/jamaica.png",
       "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/jamaica.png"
     },
     {
       "name": "Saint Lucia",
       "slug": "saint-lucia",
-      "status": "requires_original_geography"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/st-lucia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/st-lucia.png"
     },
     {
       "name": "India",
       "slug": "india",
-      "status": "uploaded_to_shared_ready_for_content_planning",
+      "status": "included_in_active_buffer_rotation",
       "shared_image_path": "digital-prints/main-principle/shared/india.png",
       "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/india.png"
     },
     {
       "name": "Afghanistan",
       "slug": "afghanistan",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/afghanistan.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/afghanistan.png"
     },
     {
       "name": "Somalia",
       "slug": "somalia",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/somalia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/somalia.png"
     },
     {
       "name": "Pakistan",
       "slug": "pakistan",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/pakistan.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/pakistan.png"
     },
     {
       "name": "Greece",
       "slug": "greece",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/greece.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/greece.png"
     },
     {
       "name": "Hellas",
       "slug": "hellas",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/hellas.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/hellas.png"
     },
     {
       "name": "Spain",
       "slug": "spain",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/spain.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/spain.png"
     },
     {
       "name": "Kashmir",
       "slug": "kashmir",
-      "status": "requires_original_geography"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/kashmir.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/kashmir.png"
     },
     {
       "name": "Ethiopia",
       "slug": "ethiopia",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/ethiopia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/ethiopia.png"
     },
     {
       "name": "Kenya",
       "slug": "kenya",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/kenya.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/kenya.png"
     },
     {
       "name": "Cuba",
       "slug": "cuba",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/cuba.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/cuba.png"
     },
     {
       "name": "Egypt",
       "slug": "egypt",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/egypt.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/egypt.png"
     },
     {
       "name": "Saudi Arabia",
       "slug": "saudi-arabia",
-      "status": "uploaded_to_shared_ready_for_content_planning",
+      "status": "included_in_active_buffer_rotation",
       "shared_image_path": "digital-prints/main-principle/shared/saudi-arabia.png",
       "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/saudi-arabia.png"
     },
     {
       "name": "Guyana",
       "slug": "guyana",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/guyana.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/guyana.png"
     },
     {
       "name": "Iran",
       "slug": "iran",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/iran.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/iran.png"
     },
     {
       "name": "Oman",
       "slug": "oman",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/oman.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/oman.png"
     },
     {
       "name": "Türkiye",
       "slug": "turkiye",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/turkiye.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/turkiye.png"
     },
     {
       "name": "Turkia",
       "slug": "turkia",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/turkia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/turkia.png"
     },
     {
       "name": "España",
       "slug": "espana",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/espana.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/espana.png"
     },
     {
       "name": "Cyprus",
       "slug": "cyprus",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/cyprus.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/cyprus.png"
     },
     {
       "name": "Jordan",
       "slug": "jordan",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/jordan.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/jordan.png"
     },
     {
       "name": "Syria",
       "slug": "syria",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/syria.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/syria.png"
     },
     {
       "name": "Libya",
       "slug": "libya",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/libya.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/libya.png"
     },
     {
       "name": "Tunisia",
       "slug": "tunisia",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/tunisia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/tunisia.png"
     },
     {
       "name": "Yemen",
       "slug": "yemen",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/yemen.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/yemen.png"
     },
     {
       "name": "Algeria",
       "slug": "algeria",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/algeria.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/algeria.png"
     },
     {
       "name": "Lebanon",
       "slug": "lebanon",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/lebanon.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/lebanon.png"
     },
     {
       "name": "Kuwait",
       "slug": "kuwait",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/kuwait.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/kuwait.png"
     },
     {
       "name": "Iraq",
       "slug": "iraq",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/iraq.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/iraq.png"
     },
     {
       "name": "Emirates",
       "slug": "emirates",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/emirates.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/emirates.png"
     },
     {
       "name": "Africa",
       "slug": "africa",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/africa.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/africa.png"
     },
     {
       "name": "Sri Lanka",
       "slug": "sri-lanka",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/sri-lanka.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/sri-lanka.png"
     },
     {
       "name": "Portugal",
       "slug": "portugal",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/portugal.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/portugal.png"
     },
     {
       "name": "Japan",
       "slug": "japan",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/japan.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/japan.png"
     },
     {
       "name": "Malta",
       "slug": "malta",
-      "status": "requires_original_geography"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/malta.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/malta.png"
     },
     {
       "name": "Mexico",
       "slug": "mexico",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/mexico.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/mexico.png"
     },
     {
       "name": "Indonesia",
       "slug": "indonesia",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/indonesia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/indonesia.png"
     },
     {
       "name": "Haiti",
       "slug": "haiti",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/haiti.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/haiti.png"
     },
     {
       "name": "Malaysia",
       "slug": "malaysia",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/malaysia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/malaysia.png"
     },
     {
       "name": "Croatia",
       "slug": "croatia",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/croatia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/croatia.png"
     },
     {
       "name": "Sudan",
       "slug": "sudan",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/sudan.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/sudan.png"
     },
     {
       "name": "Thailand",
       "slug": "thailand",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/thailand.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/thailand.png"
     },
     {
       "name": "Dominican Republic",
       "slug": "dominican-republic",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/dominican-republic.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/dominican-republic.png"
     },
     {
       "name": "Philippines",
       "slug": "philippines",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/philippines.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/philippines.png"
     },
     {
       "name": "Makkah",
       "slug": "makkah",
-      "status": "requires_original_geography"
+      "status": "missing_image_not_scheduled"
     },
     {
       "name": "Panama",
       "slug": "panama",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/panama.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/panama.png"
     },
     {
       "name": "New Zealand",
       "slug": "new-zealand",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/new-zealand.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/new-zealand.png"
     },
     {
       "name": "Loas",
       "slug": "loas",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/loas.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/loas.png"
     },
     {
       "name": "Burma",
       "slug": "burma",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/burma.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/burma.png"
     },
     {
       "name": "Myanmar",
       "slug": "myanmar",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "missing_image_not_scheduled"
     },
     {
       "name": "Italy",
       "slug": "italy",
-      "status": "local_preview_ready_not_yet_uploaded"
+      "status": "missing_image_not_scheduled"
+    },
+    {
+      "name": "ITALIA",
+      "slug": "italia",
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/italia.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/italia.png",
+      "note": "Additional uploaded design outside user's latest 55-item request list"
+    },
+    {
+      "name": "PUNJAB",
+      "slug": "punjab",
+      "status": "included_in_active_buffer_rotation",
+      "shared_image_path": "digital-prints/main-principle/shared/punjab.png",
+      "shared_image_url": "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/digital-prints/main-principle/shared/punjab.png",
+      "note": "Additional uploaded design outside user's latest 55-item request list"
     }
   ],
   "notes": [
-    "Five approved individual Main Principle room mockups are stored in shared/ and available as public image URLs for both Instagram and Pinterest.",
-    "Posting remains disabled until the user approves a schedule and captions.",
-    "Remaining mockups not uploaded or reviewed. Do not use unapproved geographic outlines."
+    "The 54 current PNG mockups are in an active independent rotation for each channel.",
+    "10 superseded _old image files were deleted on 2026-10-23.",
+    "Missing requested images (not scheduled): Makkah, Myanmar, Italy. Extra uploads: Italia and Punjab.",
+    "Each platform gets two daily Buffer posts at 15:00 and 19:00 Europe/London, with eight reserved at a time.",
+    "Pinterest product URLs have not been provided; no destination links are invented."
   ],
-  "shared_folder": "digital-prints/main-principle/shared/"
+  "shared_folder": "digital-prints/main-principle/shared/",
+  "current_image_count": 54,
+  "posting_schedule": {
+    "timezone": "Europe/London",
+    "daily_times": [
+      "15:00",
+      "19:00"
+    ],
+    "platforms": [
+      "instagram",
+      "pinterest"
+    ],
+    "per_platform_independent_rotation": true,
+    "queue_refill": "private GitHub Actions Digital Prints workflow"
+  }
 }

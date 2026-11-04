@@ -1,0 +1,33 @@
+name: Publish JobSultan infographic slides
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "jobsultan/infographics/*.zip"
+      - "scripts/extract_jobsultan_infographics.py"
+      - ".github/workflows/extract-jobsultan-infographics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jobsultan-infographic-extraction
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract the two infographic libraries
+        run: python3 scripts/extract_jobsultan_infographics.py
+      - name: Publish image files for public HTTPS access
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobsultan/infographics/published
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish extracted JobSultan infographic slides"
+            git push origin HEAD:main
+          fi

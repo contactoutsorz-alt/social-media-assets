@@ -1,0 +1,849 @@
+{
+  "version": 1,
+  "carousel_count": 60,
+  "slide_count": 420,
+  "slides_per_carousel": 7,
+  "asset_repository": "https://github.com/contactoutsorz-alt/social-media-assets",
+  "carousels": [
+    {
+      "id": "carousel-001",
+      "batch": 1,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-001/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-001/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-001/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-001/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-001/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-001/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-001/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-002",
+      "batch": 1,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-002/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-002/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-002/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-002/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-002/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-002/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-002/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-003",
+      "batch": 1,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-003/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-003/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-003/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-003/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-003/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-003/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-003/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-004",
+      "batch": 1,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-004/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-004/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-004/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-004/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-004/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-004/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-004/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-005",
+      "batch": 1,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-005/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-005/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-005/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-005/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-005/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-005/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-005/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-006",
+      "batch": 1,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-006/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-006/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-006/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-006/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-006/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-006/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-006/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-007",
+      "batch": 1,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-007/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-007/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-007/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-007/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-007/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-007/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-007/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-008",
+      "batch": 2,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-008/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-008/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-008/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-008/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-008/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-008/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-008/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-009",
+      "batch": 2,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-009/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-009/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-009/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-009/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-009/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-009/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-009/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-010",
+      "batch": 2,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-010/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-010/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-010/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-010/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-010/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-010/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-010/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-011",
+      "batch": 2,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-011/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-011/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-011/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-011/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-011/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-011/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-011/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-012",
+      "batch": 2,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-012/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-012/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-012/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-012/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-012/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-012/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-012/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-013",
+      "batch": 2,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-013/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-013/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-013/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-013/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-013/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-013/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-013/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-014",
+      "batch": 2,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-014/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-014/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-014/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-014/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-014/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-014/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-014/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-015",
+      "batch": 3,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-015/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-015/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-015/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-015/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-015/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-015/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-015/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-016",
+      "batch": 3,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-016/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-016/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-016/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-016/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-016/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-016/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-016/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-017",
+      "batch": 3,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-017/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-017/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-017/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-017/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-017/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-017/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-017/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-018",
+      "batch": 3,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-018/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-018/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-018/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-018/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-018/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-018/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-018/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-019",
+      "batch": 3,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-019/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-019/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-019/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-019/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-019/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-019/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-019/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-020",
+      "batch": 3,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-020/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-020/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-020/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-020/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-020/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-020/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-020/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-021",
+      "batch": 3,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-021/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-021/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-021/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-021/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-021/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-021/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-021/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-022",
+      "batch": 4,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-022/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-022/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-022/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-022/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-022/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-022/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-022/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-023",
+      "batch": 4,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-023/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-023/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-023/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-023/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-023/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-023/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-023/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-024",
+      "batch": 4,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-024/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-024/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-024/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-024/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-024/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-024/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-024/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-025",
+      "batch": 4,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-025/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-025/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-025/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-025/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-025/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-025/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-025/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-026",
+      "batch": 4,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-026/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-026/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-026/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-026/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-026/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-026/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-026/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-027",
+      "batch": 4,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-027/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-027/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-027/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-027/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-027/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-027/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-027/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-028",
+      "batch": 4,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-028/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-028/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-028/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-028/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-028/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-028/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-028/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-029",
+      "batch": 5,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-029/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-029/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-029/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-029/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-029/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-029/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-029/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-030",
+      "batch": 5,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-030/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-030/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-030/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-030/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-030/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-030/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-030/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-031",
+      "batch": 5,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-031/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-031/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-031/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-031/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-031/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-031/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-031/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-032",
+      "batch": 5,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-032/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-032/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-032/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-032/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-032/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-032/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-032/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-033",
+      "batch": 5,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-033/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-033/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-033/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-033/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-033/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-033/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-033/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-034",
+      "batch": 5,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-034/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-034/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-034/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-034/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-034/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-034/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-034/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-035",
+      "batch": 5,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-035/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-035/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-035/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-035/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-035/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-035/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-035/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-036",
+      "batch": 6,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-036/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-036/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-036/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-036/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-036/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-036/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-036/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-037",
+      "batch": 6,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-037/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-037/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-037/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-037/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-037/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-037/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-037/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-038",
+      "batch": 6,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-038/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-038/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-038/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-038/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-038/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-038/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-038/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-039",
+      "batch": 6,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-039/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-039/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-039/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-039/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-039/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-039/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-039/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-040",
+      "batch": 6,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-040/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-040/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-040/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-040/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-040/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-040/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-040/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-041",
+      "batch": 6,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-041/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-041/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-041/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-041/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-041/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-041/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-041/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-042",
+      "batch": 6,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-042/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-042/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-042/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-042/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-042/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-042/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-042/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-043",
+      "batch": 7,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-043/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-043/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-043/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-043/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-043/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-043/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-043/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-044",
+      "batch": 7,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-044/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-044/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-044/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-044/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-044/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-044/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-044/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-045",
+      "batch": 7,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-045/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-045/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-045/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-045/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-045/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-045/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-045/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-046",
+      "batch": 7,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-046/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-046/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-046/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-046/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-046/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-046/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-046/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-047",
+      "batch": 7,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-047/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-047/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-047/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-047/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-047/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-047/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-047/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-048",
+      "batch": 7,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-048/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-048/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-048/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-048/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-048/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-048/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-048/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-049",
+      "batch": 7,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-049/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-049/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-049/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-049/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-049/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-049/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-049/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-050",
+      "batch": 8,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-050/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-050/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-050/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-050/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-050/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-050/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-050/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-051",
+      "batch": 8,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-051/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-051/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-051/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-051/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-051/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-051/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-051/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-052",
+      "batch": 8,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-052/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-052/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-052/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-052/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-052/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-052/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-052/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-053",
+      "batch": 8,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-053/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-053/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-053/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-053/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-053/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-053/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-053/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-054",
+      "batch": 8,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-054/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-054/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-054/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-054/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-054/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-054/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-054/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-055",
+      "batch": 8,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-055/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-055/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-055/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-055/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-055/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-055/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-055/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-056",
+      "batch": 8,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-056/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-056/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-056/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-056/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-056/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-056/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-056/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-057",
+      "batch": 9,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-057/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-057/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-057/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-057/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-057/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-057/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-057/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-058",
+      "batch": 9,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-058/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-058/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-058/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-058/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-058/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-058/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-058/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-059",
+      "batch": 9,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-059/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-059/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-059/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-059/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-059/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-059/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-059/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    },
+    {
+      "id": "carousel-060",
+      "batch": 9,
+      "images": [
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-060/slide-01.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-060/slide-02.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-060/slide-03.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-060/slide-04.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-060/slide-05.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-060/slide-06.png",
+        "https://raw.githubusercontent.com/contactoutsorz-alt/social-media-assets/main/jobsultan/carousels/published/carousel-060/slide-07.png"
+      ],
+      "caption": "Practical advice for building your career in the Gulf. Swipe through, save the guidance and explore Gulf opportunities at https://www.jobsultan.com. #JobSultan #GulfJobs #JobsInSaudi #JobsInUAE #JobsInQatar #GulfCareers #CareerAdvice"
+    }
+  ]
+}
